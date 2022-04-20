@@ -1,0 +1,16 @@
+{
+  "appium_server": {
+    "Url": "http://localhost:4723/wd/hub"
+  },
+  "desired_caps": {
+    "platformName": "Android",
+    "platformVersion": "9",
+    "deviceName": "emulator-5554",
+    "app": "C:\\Users\\gorelov\\PycharmProjects\\appium_python_app\\app\\gsm.apk"
+  },
+  "admin": {
+    "username": "test@test.ru",
+    "password": "AeistSUqm3AvLuY"
+  }
+}
+
